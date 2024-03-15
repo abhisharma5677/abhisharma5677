@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisharma5677" alt="abhisharma5677" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis and Machine Learning**
+- 🌱 I’m currently working with the **Web Technologies**
 
 - 💬 Ask me about **Data Structures , ReactJs , NextJs**
 
